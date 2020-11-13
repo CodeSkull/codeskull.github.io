@@ -1,3 +1,4 @@
-name: Code Skull
-title: null
+title: Code Skull
+description: A gamified learning system for teachers of code.
+google_analytics:
 theme: jekyll-theme-hacker
