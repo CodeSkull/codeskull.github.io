@@ -1,2 +1,5 @@
-# Code Skull Website
-Currently in alpha.
+# CodeSkull Website
+Code Skull project website. Currently under construction.
+
+## Overview
+[codeskull.github.io](https://codeskull.github.io/)
