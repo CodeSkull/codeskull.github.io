@@ -1,4 +1,9 @@
 title: Code Skull
-description: A gamified learning system for teachers of code.
+description: A gamified learning system for teaching code.
+author: Tony Grimes
+
+permalink: /:categories/:title/
+
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
